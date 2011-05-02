@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: P1 fragment
+Bundle-SymbolicName: p1-fragment;singleton:=true
+Fragment-Host: p1
+Bundle-Version: 0.0.1.qualifier
+Bundle-ActivationPolicy: lazy
